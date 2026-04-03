@@ -12,10 +12,8 @@ A modern, responsive, and interactive financial dashboard built as a frontend de
 
 ---
 
-## 📸 Screenshots
-*(Add a screenshot of your dashboard here! Example: `<img src="./public/screenshot.png" alt="Dashboard View" width="800"/>`)*
-
----
+<img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/d370f7d4-2682-43d3-9105-aa542ce0932a" />
+<img width="1917" height="1069" alt="image" src="https://github.com/user-attachments/assets/30e22394-9cc4-4d2a-b03c-272f6e8c206d" />
 
 ## 🚀 Key Features
 
