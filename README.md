@@ -8,7 +8,7 @@
 A modern, responsive, and interactive financial dashboard built as a frontend development assessment. FinDash allows users to track their financial activity, view spending patterns, and manage transactions with a simulated role-based access control (RBAC) system.
 
 ## ✨ Live Demo
-**[Insert Your Live Deployment Link Here]**
+**https://findash-frontend-assessment.vercel.app/**
 
 ---
 
